@@ -1,0 +1,29 @@
+# ModelSim / Questa
+tooling/work/
+tooling/transcript
+tooling/*.log
+tooling/*.wlf
+tooling/*.ucdb
+covhtmlreport/
+
+# Quartus
+tooling/db/
+tooling/incremental_db/
+tooling/*.qpf
+tooling/*.qsf
+tooling/*.qdf
+tooling/*.sdc
+tooling/*.sof
+tooling/*.pof
+tooling/*.rpt
+tooling/*.summary
+tooling/*.smsg
+tooling/*.eqn
+tooling/*.pin
+tooling/*.jdi
+tooling/*.chg
+tooling/*.txt
+tooling/*.htm
+
+# prebuilt GNU Make distribucija iz sablona predmeta (tudji binarni fajlovi)
+tooling/xpack/
